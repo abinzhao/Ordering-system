@@ -156,13 +156,10 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-## 项目截图
-
-<img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/20501873/24188896/ff2c5910-0f1d-11e7-80c0-bc28fd84fe80.png" width="40%"/>
 
 ## 交流
 
-欢迎热爱学习、忠于分享的胖友一起来交流
+欢迎热爱学习、忠于分享的盆友一起来交流
 
 - QQ群：930982168
 
